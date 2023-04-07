@@ -9,7 +9,7 @@
 }
 
 .container__rotulo {
-    padding: 0.6em;
+    padding: 1.1em;
 }
 
 .logo__alura {
@@ -22,7 +22,7 @@
 
 .container__botao:checked~.container__rotulo {
     background: var(--azul-degrade);
-    padding: 1.2em;
+    padding: 1.1em;
 }
 
 .cabecalho {
